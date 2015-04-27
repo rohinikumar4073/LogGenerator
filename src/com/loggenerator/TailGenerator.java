@@ -15,8 +15,8 @@ public class TailGenerator {
 	   static Logger logger = Logger.getLogger(TailGenerator.class);
 
 	   public static void main(String[] args) {
-		 //  final String LOG_FILE = "C:/Users/Administrator/workspace/ApacheLogGenerator/src/resources/log4j.properties";
-		 final String LOG_FILE = "C:/Users/Admin/Documents/GitHub/ApacheLogGenerator/src/resources/log4j.properties"; 
+		 final String LOG_FILE = "C:\\Users\\Administrator\\Documents\\GitHub\\LogGenerator\\src\\com\\loggenerator\\log4j.properties";
+		 // final String LOG_FILE = "C:/Users/Admin/Documents/GitHub/ApacheLogGenerator/src/resources/log4j.properties"; 
 
 		      Properties logProp = new Properties();      
 		      try     

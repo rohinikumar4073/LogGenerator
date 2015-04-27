@@ -16,7 +16,7 @@ public class Log4jGenerator {
 
 	   public static void main(String[] args) {
 		 //  final String LOG_FILE = "C:/Users/Administrator/workspace/ApacheLogGenerator/src/resources/log4j.properties";
-		 final String LOG_FILE = "C:/Users/Admin/Documents/GitHub/ApacheLogGenerator/src/resources/log4j.properties"; 
+		 final String LOG_FILE = "C:\\Users\\Administrator\\Documents\\GitHub\\LogGenerator\\src\\log4j.properties"; 
 
 		      Properties logProp = new Properties();      
 		      try     
